@@ -5,8 +5,10 @@ This project focuses on reusable components, multi-page routing, local authentic
 
 ## Live Project
 
-`Live Link:` Add your deployed URL here  
-Example: `https://your-project-name.vercel.app`
+`Live Link:` [ShopHub](https://shop-hub-opal.vercel.app/) 
+
+
+
 
 ## Project Snapshot
 
