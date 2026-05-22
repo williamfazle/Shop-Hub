@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Headphones",
+    "category": "Electronics",
+    "price": 59.99,
+    "stock": 25,
+    "rating": 4.5,
+    "description": "Premium wireless headphones with noise cancellation and up to 30 hours of battery life.",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e"
+  },
+  {
+    "id": 2,
+    "name": "Smart Watch",
+    "category": "Electronics",
+    "price": 89.99,
+    "stock": 18,
+    "rating": 4.3,
+    "description": "Track your fitness, monitor heart rate, and receive notifications directly on your wrist.",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30"
+  },
+  {
+    "id": 3,
+    "name": "Gaming Mouse",
+    "category": "Accessories",
+    "price": 29.99,
+    "stock": 40,
+    "rating": 4.6,
+    "description": "Ergonomic gaming mouse with customizable RGB lighting and high-precision tracking.",
+    "image": "https://images.unsplash.com/photo-1527814050087-3793815479db"
+  },
+  {
+    "id": 4,
+    "name": "Mechanical Keyboard",
+    "category": "Accessories",
+    "price": 79.99,
+    "stock": 15,
+    "rating": 4.8,
+    "description": "Durable mechanical keyboard featuring tactile switches and customizable backlighting.",
+    "image": "https://images.unsplash.com/photo-1511467687858-23d96c32e4ae"
+  },
+  {
+    "id": 5,
+    "name": "Laptop Backpack",
+    "category": "Bags",
+    "price": 39.99,
+    "stock": 30,
+    "rating": 4.4,
+    "description": "Spacious and lightweight backpack with padded laptop compartment and water-resistant fabric.",
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff"
+  },
+  {
+    "id": 6,
+    "name": "Bluetooth Speaker",
+    "category": "Electronics",
+    "price": 49.99,
+    "stock": 22,
+    "rating": 4.2,
+    "description": "Portable Bluetooth speaker delivering rich sound quality and long-lasting battery performance.",
+    "image": "https://images.unsplash.com/photo-1589003077984-894e133dabab"
+  },
+  {
+    "id": 7,
+    "name": "Running Shoes",
+    "category": "Fashion",
+    "price": 69.99,
+    "stock": 35,
+    "rating": 4.7,
+    "description": "Comfortable running shoes designed with breathable materials and excellent cushioning.",
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff"
+  },
+  {
+    "id": 8,
+    "name": "Sunglasses",
+    "category": "Fashion",
+    "price": 24.99,
+    "stock": 50,
+    "rating": 4.1,
+    "description": "Stylish UV-protected sunglasses suitable for everyday wear and outdoor activities.",
+    "image": "https://images.unsplash.com/photo-1511499767150-a48a237f0083"
+  },
+  {
+    "id": 9,
+    "name": "Water Bottle",
+    "category": "Lifestyle",
+    "price": 14.99,
+    "stock": 60,
+    "rating": 4.5,
+    "description": "Reusable stainless-steel water bottle that keeps drinks cold or hot for hours.",
+    "image": "https://images.unsplash.com/photo-1602143407151-7111542de6e8"
+  },
+  {
+    "id": 10,
+    "name": "Desk Lamp",
+    "category": "Home",
+    "price": 34.99,
+    "stock": 20,
+    "rating": 4.4,
+    "description": "Modern LED desk lamp with adjustable brightness levels and eye-care lighting technology.",
+    "image": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85"
+  }
+]
